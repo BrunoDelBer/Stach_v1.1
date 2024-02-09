@@ -1,7 +1,7 @@
 #titulo{
     padding-top: 7.25rem;
     padding-bottom: 6rem;
-    background-image:url("D:/GitHub/sthac/sthac/src/assets/header-bg.jpg");
+    background-image:url("D:/GitHub/sthac/Stach_v1.1/src/assets/header-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
@@ -124,7 +124,7 @@
     margin-block-end: 0.83em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    padding-top: 0.5rem;
+    padding-top: 1.5rem;
     font-weight: bold;
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
 }
@@ -193,9 +193,10 @@ textarea {
   }
 
 #container-m{
-    background-image: url("src/assets/mundo.jpg");
+    background-image: url("src/assets/mundo_2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    
     background-attachment: scroll;
     background-position: center center;
     color: aliceblue;
@@ -204,4 +205,16 @@ textarea {
 .container-f{
     padding-top: 0.5rem;
 }
+section{
+    padding-top: 0;
+    padding-bottom: 5rem;
+}
   
+.boton-msn{
+    background-color: #ffc800;
+    color: #fff;
+    height: 5rem;
+    width: 25rem;
+    margin-bottom: 3rem;
+    margin-top: 2rem;
+}
